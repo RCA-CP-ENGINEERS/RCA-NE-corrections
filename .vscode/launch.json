@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/apple/projects/practice/NE_correction/2022-2023-DSA",
+      "program": "/Users/apple/projects/practice/NE_correction/2022-2023-DSA/build/Debug/outDebug"
+    }
+  ]
+}
